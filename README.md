@@ -1,4 +1,6 @@
-### Hi there 👋
+### Discord card
+
+<a href="https://ibb.co/bKqkLB9"><img src="https://i.ibb.co/TgpsR83/20210404-072240.png" alt="20210404-072240" border="0"></a>
 
 <!--
 **RuisuEduardo/RuisuEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
