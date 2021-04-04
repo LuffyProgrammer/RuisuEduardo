@@ -8,6 +8,8 @@
 
 <h4 align="center">Olá, como vocês estão? Aqui vai algumas informações minhas 😳</h4>
 
+![RuisuEduardo Stats](https://github-readme-stats.vercel.app/api?username=RuisuEduardo&theme=dark&show_icons=true)
+
 > Pansexual
 
 > Nascido no Paraguai não me zoem ;-;
