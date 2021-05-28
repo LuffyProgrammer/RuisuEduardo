@@ -38,7 +38,13 @@
 <details>
   <summary><b>Formas de contato:</b></summary>
   <p align="center">
-    <i>Ainda irei adicionar algumas formas de contato.</i><br><br>
-    </a>
+    <i>Rede Sociais:</i><br><br>
+
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/+49491631949270)](https://wa.me/+49491631949270)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pcxluiz@gmail.com)](mailto:pcxluiz@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/WKphrbzwyX)](https://discord.gg/WKphrbzwyX)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ruisueduardo)](https://github.com/ruisueduardo)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white&link=https://br.pinterest.com/Luna_Elegant/)](https://br.pinterest.com/Luna_Elegant/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.com/channel/UCyKQZ04X8HLYn-GiyiwQOkw)](https://youtube.com/channel/UCyKQZ04X8HLYn-GiyiwQOkw)
   </p>
 </details>
