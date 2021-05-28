@@ -1,25 +1,44 @@
-<h1 align="center">
-  <br>
-<a href="https://discord.gg/Cd8fYWNUF4"><img src="https://i.ibb.co/TgpsR83/20210404-072240.png" alt="20210404-072240" border="0"></a>
-  <br>
-  Ruisu Eduardo ^-^
-  <br>
-</h1>
+## Meu perfil e umas coisas minhas: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<h4 align="center">Olá, como vocês estão? Aqui vai algumas informações minhas 😳</h4>
+<img align="right" alt="JPG" height="70" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 
-ㅤㅤㅤㅤ![RuisuEduardo Stats](https://github-readme-stats.vercel.app/api?username=RuisuEduardo&theme=dark&show_icons=true)
+**Algumas paradas aí:**
+- 🔭 Atualmente estou trabalhando em meu Amino full terminal.
+- 🌱 Atualmente estou aprendendo PHP.
+- ✨ Interessado em coisas de pentest.
+- 🤔 Procurando um sentido para a vida.
 
-> Pansexual
+<details>
+  <summary><b>Minhas estatísticas e linguagens que eu uso: </b></summary>
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ruisueduardo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-> Nascido no Paraguai não me zoem ;-;
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ruisueduardo" id="counter">
+<img src="https://img.shields.io/github/followers/ruisueduardo">
+</p>
 
-> Programador em Python
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
-> Livraria que eu mais uso em meus scripts é a Amino.py
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ruisueduardo&repo=amino_contas&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ruisueduardo&repo=consulta&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
-> Pessoas que sempre me ajudam com meus scripts: Legit, Slimakoi, Lesano e Logyn eu amo vocês 😳❤️🤙
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruisueduardo&theme=radical&title_color=8E2DE2&text_color=fff)
 
-> Eu tenho 17 anos
+</details>
 
-> Sonho: Meu sonho é fazer um curso de ciência da computação e ir para as estações espaciais fazer pesquisas envolvendo computação e programação.
+<details>
+  <summary><b>Formas de contato:</b></summary>
+  <p align="center">
+    <i>Ainda irei adicionar algumas formas de contato.</i><br><br>
+    </a>
+  </p>
+</details>
