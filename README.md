@@ -18,8 +18,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ruisueduardo" id="counter">
 <img src="https://img.shields.io/github/followers/ruisueduardo">
 </p>
-<img srcset="https://github.githubassets.com/images/modules/site/home/globe-700.jpg 700w,
-                        https://github.githubassets.com/images/modules/site/home/globe.jpg 1400w" sizes="(max-width: 700px) 70vw, 700px" src="https://github.githubassets.com/images/modules/site/home/globe.jpg" alt="Planet earth with visualization of GitHub activity crossing the globe" class="width-full height-auto js-globe-fallback-image" loading="lazy" decoding="async" width="1238" height="1404" hidden="">
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
