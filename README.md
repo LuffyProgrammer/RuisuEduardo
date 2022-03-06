@@ -10,7 +10,6 @@
     "bff": "Pedro, Wina, Yoda, Yago, Draco, Lesano, Bruno, Muke, Isaque, Lucas, Fernando, Cauã, Ceifa, Cláudio, Alex/IP™, Alucard, Snow",
     "ide": "Microsoft Visual Code Studio",
     "linguagem": "Python, JavaScript, PHP",
-    "whatsapp": "https://wa.me/+494915224066470",
     "discord": "Luiz Eduardo#6832",
     "server": "https://discord.gg/MUJqtbNsVp"
 }
